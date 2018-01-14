@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1514873593 source:e:\cppprogram\data-struct-curriculum-design\src\main.cpp
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<malloc.h>
+
